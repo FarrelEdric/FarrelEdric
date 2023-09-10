@@ -1,16 +1,20 @@
-### Hi there 👋
+# Halo, Saya Fransiscus Farrel Edric Wijanarko
 
-<!--
-**FarrelEdric/FarrelEdric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswa di Politeknik Negeri Malang dengan minat dalam pemrograman dan pengembangan perangkat lunak. Saya senang belajar hal baru dan berkontribusi pada proyek-proyek yang menantang.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Kemampuan Teknis
+Saya memiliki pengalaman dalam beberapa bahasa pemrograman dan teknologi, termasuk:
+- Java
+- Python
+- HTML, CSS, JavaScript
+- Git dan GitHub
+
+## Cara Menghubungi Saya
+Jika Anda ingin berbicara atau berkolaborasi dengan saya, jangan ragu untuk menghubungi saya melalui email di [email@email.com](mailto:email@email.com).
+
+Terima kasih telah mengunjungi profil saya!
+
+[![Linkedin](https://www.linkedin.com/in/fransiscus-farrel-edric-wijanarko-3477b125a/)
+[![Instagram](https://www.instagram.com/farrel_edriccc/)
