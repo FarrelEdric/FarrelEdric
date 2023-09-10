@@ -7,7 +7,6 @@ Saya seorang mahasiswa di Politeknik Negeri Malang dengan minat dalam pemrograma
 ## Kemampuan Teknis
 Saya memiliki pengalaman dalam beberapa bahasa pemrograman dan teknologi, termasuk:
 - Java
-- Python
 - HTML, CSS, JavaScript
 - Git dan GitHub
 
