@@ -16,5 +16,5 @@ Jika Anda ingin berbicara atau berkolaborasi dengan saya, jangan ragu untuk meng
 
 Terima kasih telah mengunjungi profil saya!
 
-![Linkedin](https://www.linkedin.com/in/fransiscus-farrel-edric-wijanarko-3477b125a/)
-![Instagram](https://www.instagram.com/farrel_edriccc/)
+[Linkedin](https://www.linkedin.com/in/fransiscus-farrel-edric-wijanarko-3477b125a/)
+[Instagram](https://www.instagram.com/farrel_edriccc/)
