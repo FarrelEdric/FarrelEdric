@@ -9,6 +9,7 @@ Saya memiliki pengalaman dalam beberapa bahasa pemrograman dan teknologi, termas
 - Java
 - HTML, CSS, JavaScript
 - jaringan
+- mobile developer
 
 ## Cara Menghubungi Saya
 Jika Anda ingin berbicara atau berkolaborasi dengan saya, jangan ragu untuk menghubungi saya melalui email di [franciscusfarrel14@gmail.com].
