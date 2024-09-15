@@ -1,3 +1,6 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=FarrelEdric.FarrelEdric" />
+
+
 # Halo, Saya Fransiscus Farrel Edric Wijanarko
 
 Saya seorang mahasiswa di Politeknik Negeri Malang dengan minat dalam pemrograman dan pengembangan perangkat lunak. Saya senang belajar hal baru dan berkontribusi pada proyek-proyek yang menantang.
