@@ -11,3 +11,7 @@
     <h3>📖 Contact 📖</h3>
     <p>Feel free to reach out me in social media below</p>
     <div>
+
+ <a href="https://www.linkedin.com/in/farrel-edric-wijanarko-4842a12b8/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
